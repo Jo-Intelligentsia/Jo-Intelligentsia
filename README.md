@@ -1,12 +1,15 @@
 # Profile
 
-> 안녕하세요
+> 😄 안녕하세요  
 
-> 바리스타에서 개발자로 전향을 준비중인
+> ☕ 바리스타에서 
 
-> 조규상입니다.
+> 🧑‍💻 개발자로 전향을 준비중인
 
-> 잘 부탁 드리겠습니다!!!
+> 💻 조규상입니다.
+
+> 🙇🏻‍♂️ 잘 부탁 드리겠습니다!! 
+
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
